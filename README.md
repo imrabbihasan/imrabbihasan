@@ -1,19 +1,29 @@
-Hi there! 👋
+# Hello, I'm HASAN MD RABBI 👋
 
-I'm MD RABBI HASAN, a passionate software developer who loves coding and all things tech-related. I have a strong background in computer science, and I enjoy using my skills to create innovative solutions to complex problems.
+I'm a passionate developer based in China, enthusiastic about Python and contributing to open-source projects. 
 
-What I'm looking to collaborate on 🤝
+## About Me
 
-I'm always open to collaborating with other developers on exciting projects. If you have a project that you think I would be a good fit for, feel free to reach out and let me know!
+- 🔭 I’m currently exploring different Python libraries and frameworks.
+- 🌱 I’m continuously learning and improving my skills in software development.
+- 💻 I'm actively contributing to open-source projects, particularly those related to Python.
+- 📫 How to reach me: [Email](rabbihasancny@gmail.com) | [LinkedIn](https://www.linkedin.com/in/imrabbihasan/) | [Twitter](https://twitter.com/imrabbihasan)
 
-How to reach me 📫
+## Languages and Tools
 
-If you have any questions, or comments, or want to say hi, you can reach me at rabbihasancny@gmail.com. You can also find me on [Twitter/LinkedIn/another social media platform] at @imrabbihasan. I'm always happy to connect with other developers and tech enthusiasts!
+- Python
+- Git
+- HTML/CSS/JS
 
-Fun facts about me 😄
+## Projects
 
-I'm a huge fan of photography, and I love taking pictures of landscapes and nature in my free time (IG: @rabbihasanphotos).
-I'm also an avid football player and enjoy playing with friends on the weekends.
-My favourite programming language is JS, but I'm also interested in learning more about Python and Java.
-I love to travel and explore new places, and I'm always looking for new recommendations for my next adventure.
-Thanks for taking the time to check out my profile!
+- [Project 1](https://github.com/imrabbihasan/BasicWebScraping.git): GitHub Profile Image Scraper
+
+## Contributions
+
+## Fun Facts
+
+- 🎨 I enjoy exploring new technologies and implementing creative solutions.
+- 📚 I'm currently reading [Head-First Python, 2nd edition] by [Paul Barry].
+
+Feel free to connect and collaborate! Let's code together to make the world a better place. 🚀
